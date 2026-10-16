@@ -33,6 +33,11 @@ At most 10^4 calls will be made to sumRange.
 
 */
 
+
+/*
+*   inputs: an int array, a range of indices
+*   output: a single number representing the sum of the range of indices
+* */
 public class RangeSumQueryImmutable {
 
     public static void main(String[] args) {

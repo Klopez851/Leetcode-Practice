@@ -3,6 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+src/PrefixSum/NumArraycopy.java
+src/TwoPointers/SameDirectionPointersCopy.java
 
 ### Eclipse ###
 .apt_generated
