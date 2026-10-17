@@ -1,4 +1,4 @@
-package TwoPointers;
+package TwoPointers.SameDirectionPointers;
 
 /* Clarifying Questions - Move Zeroes
 Should the relative order of non-zero elements remain the same?

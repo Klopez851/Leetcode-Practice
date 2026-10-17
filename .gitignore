@@ -4,7 +4,8 @@ out/
 !**/src/test/**/out/
 .idea
 src/PrefixSum/NumArraycopy.java
-src/TwoPointers/SameDirectionPointersCopy.java
+src/TwoPointers/SameDirectionPointers/SameDirectionPointersCopy.java
+src/TwoPointers/OppositeDirectionPointers/ValidPalindromeCopy.java
 
 ### Eclipse ###
 .apt_generated
